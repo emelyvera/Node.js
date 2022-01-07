@@ -1,0 +1,21 @@
+nos da un esqueletro de nuestros proyectos para empezar aprogramar 
+el expresss generatort 
+
+instalarlo _ mpn i express generatos -g 
+
+crear la platilla ya sea hbs o pug 
+express --view=pug (nombrea_plicacion) pug-generator
+express --view=hbs (nombrea_plicacion) hbs-generator
+
+automaticamente se crea una estructura de varias carpetas 
+
+aparte ya sea en pug-gene o en hbs-gene
+debemos hacer un npm intsall para trear los modulos de las carpetas y packege json que se craron 
+
+luego para que ande, hacemos 
+> set DEBUG=nombre de la app:* & npm start
+
+//! importante
+//? porque 
+//* no se colores
+//*TODO NO SEimportante maybe
